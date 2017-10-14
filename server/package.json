@@ -9,6 +9,9 @@
   "author": "Nick Otter",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mocha": "latest",
+    "chai": "latest",
+    "zombie": "latest"
   }
 }
